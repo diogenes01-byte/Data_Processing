@@ -3,7 +3,7 @@
 ![Scala](https://img.shields.io/badge/Scala-2.13-red?style=for-the-badge&logo=scala)
 ![Spark](https://img.shields.io/badge/Spark-3.x-orange?style=for-the-badge&logo=apache-spark)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Hadoop%2FSpark-blue?style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
 
 Este repositorio explora **procesamiento de Big Data utilizando Scala y Apache Spark**, incluyendo técnicas de manejo eficiente de grandes volúmenes de datos, transformaciones distribuidas y optimización de flujos de información. El objetivo es **demostrar buenas prácticas en el desarrollo de pipelines de datos escalables y de alto rendimiento**.
 
